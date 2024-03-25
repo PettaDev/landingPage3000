@@ -29,3 +29,4 @@ https://forms.gle/CVFnR4fJZFdWTEeV9 /* Para checar os desafios propostos */
 *Implementações futuras*
 -Deixar responsivo
 -Colocar formulário
+-Caixa de horário(promoção acabando)!
